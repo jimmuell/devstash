@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Devstash</div>
+    <h1>Devstash</h1>
   )
 }
