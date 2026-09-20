@@ -1,4 +1,4 @@
-## DevStash Project Specifications
+## project-overview.md DevStash Project Specifications
 
 🚀 Centralized Developer Knowledge Hub
 
@@ -34,9 +34,9 @@ This creates **context switching, lost knowledge** and **inconsistent workflows*
 | Persona                    | Needs                                     |
 | -------------------------- | ----------------------------------------- |
 | Everyday Developer         | Quick access to snippets, commands, links |
-| AI‑First Developer         | Store prompts, workflows, contexts        |
+| AI‑First Developer        | Store prompts, workflows, contexts        |
 | Content Creator / Educator | Save course notes, reusable code          |
-| Full‑Stack Builder         | Patterns, boilerplates, API references    |
+| Full‑Stack Builder        | Patterns, boilerplates, API references    |
 
 ---
 
@@ -203,7 +203,7 @@ model ItemTag {
 
 | Category     | Choice                       |
 | ------------ | ---------------------------- |
-| Framework    | **Next.js (React 19)**       |
+| Framework    | **Next.js (React 19)** |
 | Language     | TypeScript                   |
 | Database     | Neon PostgreSQL + Prisma ORM |
 | Caching      | Redis (optional)             |
@@ -244,6 +244,14 @@ model ItemTag {
 
 - Mobile drawer for sidebar
 - Touch‑optimized icons and buttons
+
+### Screenshots
+
+Refer to the screenshots below as a base for the dashboard UI. It does not have
+to be exact — use them as a reference.
+
+- `context/screenshots/dashboard-ui-main.png` — main dashboard view
+- `context/screenshots/dashboard-ui-drawer.png` — item drawer
 
 ---
 
